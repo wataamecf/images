@@ -4,7 +4,7 @@
 // @version      0.1.2
 // @description  抓取用户数据
 // @author       Yonjar
-// @include      /^https?:\/\/(chii\.in|bangumi\.tv)\/settings.*$/
+// @include      /^https?:\/\/(chii\.in|bangumi\.tv|bgm\.tv)\/settings.*$/
 // @grant        none
 // ==/UserScript==
 
